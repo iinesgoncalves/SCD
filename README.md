@@ -7,7 +7,7 @@
     Adicione e acompanhe as suas despesas de forma fácil e prática.
   </p>
 </div>
-#SCD - Sistema de controlo de despesas
+
 ## Funcionalidades
 
 - Adicionar uma nova despesa, indicando o nome e o valor.
